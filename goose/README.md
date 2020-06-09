@@ -1,6 +1,6 @@
 # Goose bin in docker container
-container version: *0.2*
-goose version:     *v2.7.0-rc3*
+* container version: **0.2**
+* goose version:     **v2.7.0-rc3**
 
 ## Install
 
